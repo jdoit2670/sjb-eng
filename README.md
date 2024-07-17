@@ -11,7 +11,7 @@
     4.  [Social Democracy](#orgbbadc20)
     5.  [Patriotism](#org9e984e6)
 
-Samagi Jana Balawegaya: SJB, <https://www.sjb.lk/>
+Samagi Jana Balawegaya: SJB, <a href="https://www.sjb.lk/" target="_blank">sjb.lk</a>
 
 
 <a id="orgbe0b064"></a>
