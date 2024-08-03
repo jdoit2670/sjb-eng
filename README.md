@@ -1,110 +1,64 @@
-# Table of Contents
+# Samagi Jana Balawegaya
 
-1.  [Vision](#orgbe0b064)
-    1.  [Social Democratic Principles](#orgc86f4bb)
-2.  [Mission](#org407f683)
-3.  [Objectives](#orga38f349)
-4.  [Principles](#org3fb167a)
-    1.  [Progressiveness](#org9fac2ab)
-    2.  [Populism](#org48d1aca)
-    3.  [Modernism](#org5a626c7)
-    4.  [Social Democracy](#orgbbadc20)
-    5.  [Patriotism](#org9e984e6)
+## Table of Contents
+1. [Vision](#vision)
+2. [Mission](#mission)
+3. [Objectives](#objectives)
+4. [Fundamental Principles](#fundamental-principles)
+    1. [Progressiveness](#progressiveness)
+    2. [Populism](#populism)
+    3. [Modernism](#modernism)
+    4. [Social Democracy](#social-democracy)
+    5. [Environmental Sustainability](#environmental-sustainability)
 
-Samagi Jana Balawegaya: SJB, <a href="https://www.sjb.lk/" target="_blank">sjb.lk</a>.
+## Vision
+Samagi Jana Balawegaya operates on the fundamental principles of Social Democracy, which include Freedom, Solidarity, and Justice. It aims to implement these principles within a social market economy, focusing on progressiveness, populism, modernism, social democracy, and environmental sustainability.
 
+## Mission
+The mission is to govern based on a political code of ethics while maintaining power. This includes acting as a political party with green policies that prioritizes political power.
 
-<a id="orgbe0b064"></a>
+## Objectives
+1. Unite all ethnic groups and social communities living in Sri Lanka, fostering a collective national identity.
+2. Implement policies based on openness to the world.
+3. Establish a state governance system founded on knowledge.
+4. Create a self-sufficient, strong nation that respects ethnic, linguistic, and religious diversity.
+5. Enforce the rule of law and democratic pluralism within the country.
+6. Ensure complete security and protection for citizens in the modern era.
+7. Enforce laws against corruption, waste, and mismanagement.
+8. Commit to protecting human rights and equality, making these the primary policies of state governance.
+9. Operate on the principle that sovereignty belongs to the people, ensuring the exercise of this sovereignty through the principles of checks and balances.
+10. Ensure participatory decision-making involving all stakeholders in political and economic decisions, whether in the party, government, or state.
 
-# Vision
+## Fundamental Principles
 
+The following are brief interpretations of the five fundamental principles that form the basis of the policies implemented by Samagi Jana Balawegaya:
 
-<a id="orgc86f4bb"></a>
+### Progressiveness
+Progressiveness requires an open mind to understand evolving global trends for the survival of a progressive society. State governance and party mechanisms should always allow for collective decision-making. Participation, intervention, dialogue, and collective decision-making processes must be established to maintain democratic governance. Efforts should be made to adapt to evolving trends while maintaining integrity. When implementing national policies, progressiveness should be enacted by recognizing innovative social and economic trends.
 
-## Social Democratic Principles
+### Populism
+Identify and address the desires and needs of the people, taking steps to fulfill these needs by reducing social disparities. This involves acting as a political party that executes policies aimed at minimizing social inequality.
 
-United People&rsquo;s Force is based on the fundamentals of social democracy: freedom, solidarity, and justice. It operates on five main principles within a social market economy: progressiveness, populism, modernism, social democracy, and patriotism.
+### Modernism
+We live in a transformative era where society is based on knowledge. Hence, policies should strengthen modern methodologies that include public opinion and inquiry, concluding with questions that incorporate modern science and technology.
 
+### Social Democracy
+The foundation of social democracy is based on three concepts: freedom, solidarity, and justice. Within this foundation, policies should focus on protecting and promoting the following rights:
+- The right to life
+- The right to personal freedom
+- The right to freedom of thought and expression
+- The right to property ownership
+- The right to act in accordance with one's conscience and to practice one's religion
+- The right to equality
+- The right to organization
+- The right to family life
+- The right to education
+- The right to work
 
-<a id="org407f683"></a>
+### Environmental Sustainability
+- Nationalism is the feeling of belonging to a nation. It is the mental state of individuals within a geographic area who consider themselves part of the same nation.
+- Nationalism emerges when there is unity and national concentration.
+- Considering a nation based on ethnic foundations while developing nationalism through ethnic inclusivity.
 
-# Mission
-
-In both acquiring state power and maintaining it, this political party operates based on these political ethics and principles, functioning as a green political party aiming for political power.
-
-
-<a id="orga38f349"></a>
-
-# Objectives
-
-1.  Unify all ethnic groups and social classes in Sri Lanka to build a unified nation.
-2.  Operate on an open, inclusive foreign policy.
-3.  Establish a knowledge-based governance system.
-4.  Build a self-respecting, strong nation within a multicultural, multilingual, and multi-religious society.
-5.  Implement the rule of law and pluralistic democracy within the country.
-6.  Ensure the complete protection of the people&rsquo;s rights and safety in the modern era.
-7.  Strengthen the legal system to combat corruption, destruction, and exploitation.
-8.  Prioritize human freedom and equality in governance to protect citizens&rsquo; rights.
-9.  Implement governance based on the principle of &ldquo;movement and change&rdquo; emphasizing popular sovereignty.
-10. Ensure participatory decision-making in political and economic decisions across party, government, and state sectors.
-
-
-<a id="org3fb167a"></a>
-
-# Principles
-
-The summary of the five core principles that contribute to the policies of the United People&rsquo;s Force:
-
-
-<a id="org9fac2ab"></a>
-
-## Progressiveness
-
--   Embrace openness to progressive global trends for a progressive society.
--   Always keep pathways open for collective decision-making within state governance and party mechanisms.
--   Establish steps towards democratic governance through participation, mediation, dialogue, and collective decision-making.
--   Continuously adapt to progressive trends while honoring conscience-driven governance.
-
-
-<a id="org48d1aca"></a>
-
-## Populism
-
--   Identify and act on people&rsquo;s desires and needs.
--   Function as a political party that meets people&rsquo;s expectations and minimizes social disparity.
-
-
-<a id="org5a626c7"></a>
-
-## Modernism
-
--   Live in a transformative era emphasizing knowledge-based societal existence.
--   Strengthen modern methods, science, and technology by considering public opinion and surveys.
-
-
-<a id="orgbbadc20"></a>
-
-## Social Democracy
-
--   Social democracy is based on the triad of freedom, solidarity, and justice.
--   Ensure the protection and enhancement of these rights for the people:
-    1.  Right to live
-    2.  Right to personal freedom
-    3.  Right to freedom of thought and expression
-    4.  Right to own property
-    5.  Right to act according to one&rsquo;s conscience and to follow a religion of one&rsquo;s choice
-    6.  Right to equality
-    7.  Right to organize
-    8.  Right to family life
-    9.  Right to education
-    10. Right to work
-
-
-<a id="org9e984e6"></a>
-
-## Patriotism
-
--   Nationalism is the feeling of belonging to a nation among people living in a territory.
--   When unified in national concentration, the feeling of nationalism emerges.
--   The importance of ethnicity influences the development of nationalism.
--   Create a united Sri Lankan nation by respecting the distinct characteristics of all ethnic groups through ethnic equality and solidarity, referred to as patriotism.
+Therefore,
+- Create a Sri Lankan nation that respects the distinctive characteristics of all ethnic groups, uniting them through ethnic equality and solidarity. This is known as national unity.
