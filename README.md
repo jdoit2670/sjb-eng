@@ -1,4 +1,4 @@
-# Samagi Jana Balawegaya
+# Samagi Jana Balawegaya (SJB)
 
 ## Table of Contents
 1. [Vision](#vision)
@@ -12,7 +12,7 @@
     5. [Environmental Sustainability](#environmental-sustainability)
 
 ## Vision
-Samagi Jana Balawegaya operates on the fundamental principles of Social Democracy, which include Freedom, Solidarity, and Justice. It aims to implement these principles within a social market economy, focusing on progressiveness, populism, modernism, social democracy, and environmental sustainability.
+Samagi Jana Balawegaya (SJB) operates on the fundamental principles of Social Democracy, which include Freedom, Solidarity, and Justice. It aims to implement these principles within a social market economy, focusing on progressiveness, populism, modernism, social democracy, and environmental sustainability.
 
 ## Mission
 The mission is to govern based on a political code of ethics while maintaining power. This includes acting as a political party with green policies that prioritizes political power.
@@ -31,7 +31,7 @@ The mission is to govern based on a political code of ethics while maintaining p
 
 ## Fundamental Principles
 
-The following are brief interpretations of the five fundamental principles that form the basis of the policies implemented by Samagi Jana Balawegaya:
+The following are brief interpretations of the five fundamental principles that form the basis of the policies implemented by Samagi Jana Balawegaya (SJB):
 
 ### Progressiveness
 Progressiveness requires an open mind to understand evolving global trends for the survival of a progressive society. State governance and party mechanisms should always allow for collective decision-making. Participation, intervention, dialogue, and collective decision-making processes must be established to maintain democratic governance. Efforts should be made to adapt to evolving trends while maintaining integrity. When implementing national policies, progressiveness should be enacted by recognizing innovative social and economic trends.
@@ -62,3 +62,6 @@ The foundation of social democracy is based on three concepts: freedom, solidari
 
 Therefore,
 - Create a Sri Lankan nation that respects the distinctive characteristics of all ethnic groups, uniting them through ethnic equality and solidarity. This is known as national unity.
+
+Source: <https://drive.google.com/file/d/1JrXL17H0aRfraNtn-Tq2RGT7CT_ta2rl/view>
+From: <https://www.sjb.lk>
