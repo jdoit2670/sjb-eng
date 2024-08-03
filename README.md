@@ -63,5 +63,4 @@ The foundation of social democracy is based on three concepts: freedom, solidari
 Therefore,
 - Create a Sri Lankan nation that respects the distinctive characteristics of all ethnic groups, uniting them through ethnic equality and solidarity. This is known as national unity.
 
-Source: <https://drive.google.com/file/d/1JrXL17H0aRfraNtn-Tq2RGT7CT_ta2rl/view>
-From: <https://www.sjb.lk>
+Source: <https://drive.google.com/file/d/1JrXL17H0aRfraNtn-Tq2RGT7CT_ta2rl/view>. From: <https://www.sjb.lk>.
